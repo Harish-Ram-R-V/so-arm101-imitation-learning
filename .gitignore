@@ -1,0 +1,22 @@
+```text
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Large media and dataset files (Host these on Hugging Face instead)
+*.mp4
+*.avi
+*.mkv
+data/
+datasets/
+outputs/
+models/
+
+# OS generated files
+.DS_Store
+Thumbs.db

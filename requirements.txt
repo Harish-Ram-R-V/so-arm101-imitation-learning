@@ -1,0 +1,5 @@
+lerobot==0.9.4
+feetech-servo-sdk==1.0.0
+torch
+torchvision
+opencv-python
